@@ -1,0 +1,3 @@
+include ':widgetkitlibrary'
+include ':app'
+rootProject.name = "WidgetKit"
